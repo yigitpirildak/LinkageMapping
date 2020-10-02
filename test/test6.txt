@@ -1,0 +1,8 @@
+aBC 24
+aBc 23
+ABC 462
+abC 1
+AbC 24
+abc 439
+Abc 24
+ABc 3

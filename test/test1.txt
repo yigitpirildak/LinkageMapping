@@ -1,0 +1,8 @@
+aBC 480
+ABc 15
+ABC 10
+aBc 1
+abC 13
+Abc 472
+AbC 1
+abc 8

@@ -1,0 +1,8 @@
+abC 95
+ABC 330
+Abc 15
+ABc 100
+aBc 66
+abc 320
+aBC 10
+AbC 64
