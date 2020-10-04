@@ -11,12 +11,19 @@ The script takes a file path as an argument and attempts to classify genotypes, 
 **Gamete that came from the heterozygous parent** / **freqeuncy**
 
 ABC 416
+
 abc 426
+
 AbC 72
+
 aBc 78
+
 Abc 3
+
 aBC 4
+
 abC 0
+
 ABc 1
 
 For reference, there are some test samples that can be found under **test** folder.
