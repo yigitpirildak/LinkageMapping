@@ -9,6 +9,7 @@ By crossing a trihybrid (heterozygous at all three loci) individual to a purebre
 The script takes a file path as an argument and attempts to classify genotypes, gene order and distances between them, coefficient of coincidence and interference. File format is expected to be:
 
 **Gamete that came from the heterozygous parent** / **freqeuncy**
+
 ABC 416
 abc 426
 AbC 72
